@@ -1,5 +1,7 @@
 These 2 Scripts are the code for the ECU.
-To read off the laptimes, upload the Lap_store_read_sketch file via the ARDUINO IDE, and look in the serial monitor
+Firstly, you MUST unzip the folder ECU scripts.
+To veiw, edit or Upload the files, you must use the Arduino IDE: https://www.arduino.cc/en/software
+To read off the laptimes, upload the Lap_store_read_sketch file via the ARDUINO IDE, and look in the serial monitor. You must have a computer/ laptop to do this.
 To begin collecting more times, you must upload the GreenPowerECU_MAIN file through the same method.
 To do this you may need to install the dependent libraries, which are in the libraries folder, but they may not be complete and may need reinstalling.
 
